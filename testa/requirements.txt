@@ -1,0 +1,6 @@
+streamlit
+fiona==1.8.20
+geopandas
+shapely
+geocoder
+
